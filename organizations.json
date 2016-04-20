@@ -1876,4 +1876,14 @@
         "longitude": "-113.9848200",
         "type": "Brigade"
     }
+    {
+        "name": "Code for Palm Beach",
+        "website": "http://www.CodeForPalmBeach.org",
+        "events_url": "http://www.meetup.com/Code-for-Palm-Beach/",
+        "projects_list_url": "https://github.com/codeforpalmbeach/",
+        "city": "West Palm Beach, FL",
+        "latitude": "26.712604",
+        "longitude": "-80.054734",
+        "type": "Brigade"
+    }
 ]
